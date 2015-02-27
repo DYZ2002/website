@@ -1,0 +1,8 @@
+.DS_Store
+.project
+.settings
+.idea
+*.sql
+node_modules
+public/upload/*
+config/config.js
